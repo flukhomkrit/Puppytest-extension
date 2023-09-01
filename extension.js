@@ -1,5 +1,5 @@
 ({
-    name: "PuppyPID", // Category Name
+    name: "PuppyPIDtest", // Category Name
     description: "PID line following for PuppyBot",
     author: "PrinceBot",
     category: "Sensors",
